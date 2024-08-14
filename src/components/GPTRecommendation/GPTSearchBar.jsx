@@ -1,5 +1,4 @@
 import {useState } from "react";
-// import openai from "../../utils/openai";
 // import { searchQueryMaker } from "../../utils/constants";
 import axiosInstance from "../../axios";
 import { useDispatch } from "react-redux";
